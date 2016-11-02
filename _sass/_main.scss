@@ -13,3 +13,14 @@
 @import 'components/components.LogoTitle';
 @import 'components/components.Section';
 @import 'components/components.TopBar';
+
+body {
+  padding-top: 90px;
+}
+
+.c-TopBar {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1;
+}
