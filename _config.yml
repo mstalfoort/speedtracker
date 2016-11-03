@@ -11,6 +11,9 @@ exclude:
   - package.json
   - speedtracker.yml
   - webpack.config.js
+  - bootstrap.sh
+  - startjekyll.sh
+  - Vagrantfile
 
 collections:
   profiles:

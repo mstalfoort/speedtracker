@@ -18,9 +18,17 @@ body {
   padding-top: 90px;
 }
 
+h1,h2,h3 {
+  font-weight: normal;
+}
+
 .c-TopBar {
   position: fixed;
   width: 100%;
   top: 0;
   z-index: 1;
+}
+
+.c-TopBar__select {
+  background-color: #ea8c55;
 }
